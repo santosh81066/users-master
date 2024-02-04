@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "408590004796",
+    "firebase_url": "https://vedicpurohit-d68c1-default-rtdb.firebaseio.com",
+    "project_id": "vedicpurohit-d68c1",
+    "storage_bucket": "vedicpurohit-d68c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408590004796:android:466dc7d3453209643f4939",
+        "android_client_info": {
+          "package_name": "com.purohith.users"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408590004796-sikfl15qs0eu2f8mj0278b7kfji9end8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.purohith.users",
+            "certificate_hash": "1f17efcbaff9e25de3df3f8dcaef6d2da5680414"
+          }
+        },
+        {
+          "client_id": "408590004796-qv6c7ba3crn23sc2o32i819r52havtpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkByrZazrbsGH8pBFDUpKovxO-HSy3sf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408590004796-qv6c7ba3crn23sc2o32i819r52havtpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
